@@ -1,6 +1,6 @@
 # numpy_image_annotation
 Basic text printing over NumPy images.  
-A purely Numpy tool for image annotation.  
+A purely NumPy tool for image annotation.  
   
 *No openCV or Pillow needed!*
 
